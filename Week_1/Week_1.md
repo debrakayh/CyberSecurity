@@ -106,7 +106,7 @@ ________________________________________
 
 25.	How many individuals or organizations were indicted for cyber criminal activities in 2018? What are some of the countries that these entities were from?
 
-         49 individuals or organizations were indicted. They came from nationals and individuals from Russia, China, Iran, and North Korea. 
+        49 individuals or organizations were indicted. They came from nationals and individuals from Russia, China, Iran, and North Korea. 
 
 26.	When it comes to the increased number of cloud cybersecurity attacks, what is the common theme? 
 
@@ -200,21 +200,21 @@ ________________________________________
 
 48.	In the underground economy, how much can someone get for the following? 
 
-a.	Stolen or fake identity:
+    a.	Stolen or fake identity:
 
         $.10-1.50
-b.	Stolen medical records:
+    b.	Stolen medical records:
 
         $.10-.35
 
-c.	Hacker for hire:
+    c.	Hacker for hire:
 
         $100+
 
-d.	Single credit card with full details:
+    d.	Single credit card with full details:
 
         $1-45
 
-e.	500 social media followers:
+    e.	500 social media followers:
 
         $2-6
